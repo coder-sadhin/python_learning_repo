@@ -43,7 +43,7 @@ questions = [
     Question("What is the file extension for a Python script?", [".pyt", ".script", ".pyscript", ".py"], 4),
     Question("Which data type is used to store a sequence of characters in Python?", ["integer", "string", "float", "list"], 2),
     Question("What is the purpose of a function in programming?", ["To create loops", "To display text on the screen", "To store data", "To perform a specific task"], 4),
-    Question("What is the result of 2 * 3?", ["5", "6", "7", "8"], 2)
+    
 ]
 
 # Initialize the quiz game
