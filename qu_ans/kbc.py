@@ -6,7 +6,7 @@ questions=[
     "What is the purpose of an operating system?"
     ]
 
-options=[
+optionsSet=[
     [
         "A) Central Processing Unit",
         "B) Computer Peripheral Unit",
