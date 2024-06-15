@@ -8,13 +8,6 @@ questions=[
 
 optionsSet=[
     [
-        "A) Central Processing Unit",
-        "B) Computer Peripheral Unit",
-        "C) Control Processing Unit",
-        "D) Central Program Unit",
-        "D"
-    ],
-    [
         "A) Queue",
         "B) Stack",
         "C) Linked List",
