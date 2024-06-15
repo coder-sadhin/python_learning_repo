@@ -21,6 +21,11 @@ questions = [
         "options": ["Queue", "Stack", "Linked List"],
         "correct_answer": 2,
     },
+    {
+        "question": "What does the acronym 'CPU' stand for?",
+        "options": ["Central Processing Unit", "Computer Peripheral Unit", "Control Processing Unit"],
+        "correct_answer": 1,
+    },
     # Add more questions here...
 ]
 
