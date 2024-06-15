@@ -10,6 +10,7 @@ try:
     for i in range(1,11):
         print(f"{int(n)} * {i} = {int(n)*i}")
 except Exception as e:
+    # if issu some eroor
     print("sorry, I have some error")
 
 
