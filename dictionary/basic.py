@@ -16,8 +16,8 @@ print(dic["id"])
 # print(dic.keys())
 
 # if i need all value 
-# for key in dic.keys():
-#     print(dic[key])
+for key in dic.keys():
+    print(dic[key])
 
 # if i need all value 
 # for key in dic.keys():
