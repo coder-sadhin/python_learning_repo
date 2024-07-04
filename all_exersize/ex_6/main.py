@@ -11,6 +11,10 @@ class Library:
     print(f"The library has {self.noBooks} books. The books are")
     for book in self.books:
       print(book)
+  # def showInfo(self):
+  #   print(f"The library has {self.noBooks} books. The books are")
+  #   for book in self.books:
+  #     print(book)
 
 
 l1 = Library()
