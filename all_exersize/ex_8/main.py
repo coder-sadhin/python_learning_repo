@@ -9,3 +9,5 @@ for pdf in files:
 
 merger.write("merged-pdf.pdf")
 merger.close()
+# merger.write("merged-pdf.pdf")
+# merger.close()
