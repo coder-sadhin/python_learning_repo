@@ -7,3 +7,8 @@ for file in files:
     print(file)
     os.rename(f"all_exersize/ex_7/clutteredFolder/{file}", f"all_exersize/ex_7/clutteredFolder/{i}.jpg")
     i = i + 1
+# for file in files:
+#   if file.endswith(".jpg"):
+#     print(file)
+#     os.rename(f"all_exersize/ex_7/clutteredFolder/{file}", f"all_exersize/ex_7/clutteredFolder/{i}.jpg")
+#     i = i + 1
