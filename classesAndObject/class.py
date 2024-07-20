@@ -9,9 +9,7 @@ class Person:
 a = Person()
 b = Person()
 c = Person()
-# a = Person()
-# b = Person()
-# c = Person()
+
 
 a.name = "Shubham"
 a.occupation = "Accountant"
