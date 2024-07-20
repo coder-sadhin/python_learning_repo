@@ -10,7 +10,3 @@ p = Person("John", 30)
 print(p.__dict__)
 
 print(help(Person))
-# p = Person("John", 30)
-# print(p.__dict__)
-
-# print(help(Person))
