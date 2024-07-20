@@ -10,9 +10,7 @@ class Employee:
 e1 = Employee("Harry", 12000)
 print(e1.name)
 print(e1.salary)
-# e1 = Employee("Harry", 12000)
-# print(e1.name)
-# print(e1.salary)
+
 
 string = "John-12000"
 e2 = Employee.fromStr(string)
